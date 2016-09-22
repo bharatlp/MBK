@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">InShorts</string>
+    <string name="response">
+        {
+        \"cards\": [
+        {
+            \"body\":\"India Celebrates 70 Years Of Independence Today\",
+            \"image_url\":\"http://drop.ndtv.com/albums/NEWS/i-day-70/india70thindependencedaygt_253x190.jpg\",
+            \"shortLine\":\"India Celebrates 70 Years Of Independence\",
+            \"likes\":\"200\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Pragya Swastik/ Today\"
+        },
+        {
+            \"body\":\"Independence Day\",
+            \"image_url\":\"http://drop.ndtv.com/albums/NEWS/happy_independence_day/640_253x190.jpg\",
+            \"shortLine\":\"Independence Day\",
+            \"likes\":\"100\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Bharat / Today\"
+        },
+        {
+            \"body\":\"10 Most Powerful Women In The World 10 Most Powerful Women In The World, 10 Most Powerful Women In The World\",
+            \"image_url\":\"http://drop.ndtv.com/albums/NEWS/powerful-women/gallery-thumb_253x190.jpg\",
+            \"shortLine\":\" 10 Most Powerful Women In The World\",
+            \"likes\":\"70\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Venkatesh/ Today\"
+        },
+        {
+            \"body\":\"Mumbai Submerged. Traffic A Mess As City Battles Heavy Rain\",
+            \"image_url\":\"http://drop.ndtv.com/albums/NEWS/part-2/gallery-thumb_253x190.jpg\",
+            \"shortLine\":\"Mumbai Submerged.\",
+            \"likes\":\"350\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Santoshi/ Today\"
+        },
+        {
+            \"body\":\"Images Of The Emirates Plane That Burst Into Flames In Dubai\",
+            \"image_url\": \"http://drop.ndtv.com/albums/NEWS/emirates/gt_253x190.jpg\",
+            \"shortLine\":\"Images Of The Emirates Plane\",
+            \"likes\":\"200\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Pragya Swastik/ Today\"
+        },
+        {
+            \"body\":\"British-Era Bridge Collapses On Mumbai-Goa Highway Due To Heavy Rain\",
+            \"image_url\": \"http://drop.ndtv.com/albums/NEWS/bridge-collapse/thumb_253x190.jpg\",
+            \"shortLine\":\"British-Era Bridge Collapses\",
+            \"likes\":\"200\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Pragya Swastik/ Today\"
+        },
+        {
+            \"body\":\"Snapshots From Sonia Gandhi\'s Road Show \'Dard-E-Varanasi\'\",
+            \"image_url\": \"http://drop.ndtv.com/albums/NEWS/dard-e-varanasi-show/gtlatest_253x190.jpg\",
+            \"shortLine\":\"Snapshots From SG Road Show \",
+            \"likes\":\"200\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Pragya Swastik/ Today\"
+        },
+        {
+            \"body\":\"Assam Floods: Over 18 Lakh People Affected Across 22 Districts\",
+            \"image_url\": \"http://drop.ndtv.com/albums/NEWS/assam/thumb_253x190.jpg\",
+            \"shortLine\":\"Assam Floods: People Affected\",
+            \"likes\":\"200\",\"more\":\" more at <a href='https://www.youtube.com/watch?v=4SkjePJy9-4'>YouTube</a> \",\"reportby\":\"short by Pragya Swastik/ Today\"
+        }
+        ]
+    }
+    </string>
+
+</resources>

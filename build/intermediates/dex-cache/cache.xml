@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nani/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/library-2.4.0_a19782656092be0b590f8363a3d25456b835b38b.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d3d9ed89f82dc858c56db5b95cb140ce0db37b7">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_11b97c1961715e8d213cca46175867df1970f63b.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.9.0_7a9b74c3aace0bf097aa4abf66baa81160883856.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.9.0_ad0564b8e9aaf2220ae672db3c30a7d4d54ffb56.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="211eab01abc0a5beaae1f81e3567661c7c312ced">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/instant-run_cabb48d8fb3164dfac5f1d9cba7b1d5e957c0286.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_8a944acbd67a6c62252c6009d50ede7ae83fde74.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c7a7126815e9e752573b573e5acf15d8236a9e19.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.9.0_d8e3500efb03f9b913c31e556332fb30dbe132c2.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.9.0_276b8ffd48c268e6147a9729ce0af07bc733c459.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4c176e4438e3435854f2aa3135f443350652d6f4.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.9.0_39692de1e40bbbe5542e81df60313745ad4df193.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_61fa4b0438652fc93e8be1698e57834414d3b0d9.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_0970fa29ec22a6223fa373631c73059f011af455.jar" />
+    </item>
+    <item
+        jar="/Users/Nani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Nani/AndroidStudioProjects/inShorts-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_240e266f98e80b9b74391204dad66cbc44cc4c7a.jar" />
+    </item>
+
+</items>
